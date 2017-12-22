@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReciApp</string>
+    <string name="title_activity_detail">Recipe Details</string>
+
+    <string name="ingredients_label">Ingredients:</string>
+
+    <string name="menu_item_refresh">Refresh</string>
+</resources>
