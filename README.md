@@ -10,7 +10,7 @@ This project contain a simple mobile application. It shows a listview of recipes
 
 ## Installation
 
-To try app, install directly app-debug.apk file. You can find it at "/progetti_android/reciapp/ReciApp_final_project/ReciApp/app/build/outputs/apk" path
+To try app, install directly app-debug.apk file. You can find it at "/reciapp/ReciApp/app/build/outputs/apk" path
 
 ## API Reference
 
